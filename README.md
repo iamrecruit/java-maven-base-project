@@ -4,8 +4,8 @@
 
 ## 依赖
 
-Maven
-JDK 1.8
+- Maven
+- JDK 1.8
 
 ## 使用
 
